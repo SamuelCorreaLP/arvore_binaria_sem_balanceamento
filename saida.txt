@@ -1,0 +1,103 @@
+-- Arvore ordenada --
+
+inicio comparação
+Erro: Falha na pesquisa
+i = 1 // tempo = 7
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 2 // tempo = 9
+inicio comparação
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 3 // tempo = 11
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 4 // tempo = 60
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 5 // tempo = 49
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 6 // tempo = 66
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 7 // tempo = 59
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 8 // tempo = 74
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 9 // tempo = 81
+
+
+-- Arvore aleatória --
+
+inicio comparação
+Erro: Falha na pesquisa
+i = 1 // tempo = 15
+inicio comparação
+Erro: Falha na pesquisa
+i = 2 // tempo = 14
+inicio comparação
+Erro: Falha na pesquisa
+i = 3 // tempo = 14
+Erro: Registro ja existente
+inicio comparação
+Erro: Falha na pesquisa
+i = 4 // tempo = 17
+inicio comparação
+Erro: Falha na pesquisa
+i = 5 // tempo = 15
+Erro: Registro ja existente
+inicio comparação
+Erro: Falha na pesquisa
+i = 6 // tempo = 17
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 7 // tempo = 21
+Erro: Registro ja existente
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 8 // tempo = 25
+Erro: Registro ja existente
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 9 // tempo = 20
